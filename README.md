@@ -4,4 +4,4 @@
 
 Nesta limpeza de dados, a empresa Novexus deseja saber quais de seus usuários pretendem a mudar para outra operadora de telefone/internet (denominado como o método Churn).
 
-Este projeto foi feito extraindo o API do banco de dados, transformando-o em um arquivo csv.
+Este projeto foi feito extraindo o link API do banco de dados, transformando-o em um arquivo csv.
